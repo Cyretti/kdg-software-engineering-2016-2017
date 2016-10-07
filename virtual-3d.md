@@ -112,8 +112,7 @@
 
 - Vanvelk Thomas
 	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
-
+	- github: https://github.com/Cyretti/Software-engineering.git
 - Verhoeven Steve
 	- e-mailadres: naam@student.kdg.be
 	- github: https://github.com/naam/software-engineering-oplossingen.git
